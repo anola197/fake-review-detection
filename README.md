@@ -1,4 +1,4 @@
-# NLP Fake Review Detection
+# Fake Review Detection
 
 A machine learning system that uses Natural Language Processing (NLP) and behavioral analysis to automatically identify and filter out deceptive product reviews.
 
